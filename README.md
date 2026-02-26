@@ -25,7 +25,7 @@ He entrado en el backup de una máquina virtual protegida, he generado el script
 
 En la primera captura se ve la generación del script necesario para iniciar la recuperación de archivos desde el punto de backup.
 
-En la segunda se ve el punto de recuperación ya montado como unidad y el acceso al archivo recuperado.
+En la segunda se ve el punto de recuperación ya montado como unidad para el acceso al archivo recuperado.
 
 ## Cómo lo explicaría en una entrevista
 
